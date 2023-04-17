@@ -50,6 +50,9 @@ Caso contrário, será apresentado da seguinte forma:
 
 E apos selecionar todos os itens, basta apenas clicar no botão cadastrar ideias.
 
+🎬 Veja um video de demonstração:
+https://youtu.be/SMxUzo3uBUo
+
  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
  
  E-mail: contato@pontoparse.net
