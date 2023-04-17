@@ -23,6 +23,11 @@ Tela de ideias cadastradas:
 
 ![image](https://user-images.githubusercontent.com/34819624/232516422-1d09eaac-4d0c-43f0-b7dc-76dea2063e94.png)
 
+Se clicar no icone de **balão**, iremos apresentar o teor do ideia e quem cadastrou:
+
+![image](https://user-images.githubusercontent.com/34819624/232519841-3db9371b-2b00-4f5d-b878-d5ee4b129827.png)
+
+
 Nesta tela, você terá alguns filtros, são eles:
 
 Por sub-assunto, aqui representado pelos icones Deslike e Like, onde sendo Deslike = Reclamação e Like = Sugestão, além de poder digitar essas informações no campo de busca.
