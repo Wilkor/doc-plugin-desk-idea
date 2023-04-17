@@ -40,7 +40,8 @@ https://chrome.google.com/webstore/detail/parsehub/khhjfhfaebfhlfpfkmgkjfiejhmni
 
 Feito isso, caso o gestor ainda não tenha cadastrado nenhum assunto, ficará dessa forma para o assistente, quando clicar no item com a seta:
 
-![image](https://user-images.githubusercontent.com/34819624/232523727-2444b8d6-d18a-4507-a4d6-bd8f7a6692e6.png)
+![image](https://user-images.githubusercontent.com/34819624/232524802-f0e6a5f3-b597-4a02-982e-e4d818f66a8c.png)
+
 
 Caso contrário, será apresentado da seguinte forma:
 
