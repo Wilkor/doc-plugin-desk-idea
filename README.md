@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-desk-idea/assets/34819624/3ad9ab99-6589-4d31-b0c4-c03b42db9cc7)
 
 # Como utilizar a extensão Desk idea?
 
